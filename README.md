@@ -1,0 +1,2 @@
+# READ-WITH-ELLE
+FINAL PROJECT FOR AFRO-FEM-CODERS Winter Web Development Class
